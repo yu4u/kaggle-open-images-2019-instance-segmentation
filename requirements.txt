@@ -1,0 +1,10 @@
+better_exceptions
+tqdm
+numpy
+pandas
+torch
+opencv-python
+torchvision
+yacs
+scipy
+future
