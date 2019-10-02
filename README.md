@@ -30,6 +30,9 @@ PROJECT_ROOT
 - `train`: train images
 - `train_masks`: train mask images
 
+Trained models are available from [Kaggle Dataset](https://www.kaggle.com/ren4yu/openimages2019instancesegmentationmodels).
+If you use the trained models, please skip to the 'Test for Layer 0 Classes' section.
+
 ## Train on Open Images Dataset
 
 ### Create Dataset for Layer 0 Classes
@@ -52,7 +55,7 @@ PROJECT_ROOT
 
 This is the COCO-based format, thus it can be used on the other library like [mmdetection](https://github.com/open-mmlab/mmdetection) (but not tested).
 
-#### Train for Layer 0 Classes
+### Train for Layer 0 Classes
 
 Train on 8GPUs. This requires only 14 hours using V100 8GPUs
 
