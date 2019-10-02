@@ -1,7 +1,10 @@
 # open-images-2019-instance-segmentation
 
-This repository is a baseline implementation for [Open Images 2019 - Instance Segmentation competition](https://www.kaggle.com/c/open-images-2019-instance-segmentation)
+Codes for [Open Images 2019 - Instance Segmentation competition](https://www.kaggle.com/c/open-images-2019-instance-segmentation)
 using [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark).
+
+The result is not outstanding but the solution might be valuable to be shared
+because it used the famous maskrcnn-benchmark library 'as it is' and also used its outputs as it is without TTA or any post processing.
 
 ## Preparation
 
