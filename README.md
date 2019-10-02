@@ -6,6 +6,8 @@ using [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmar
 The result is not outstanding but the solution might be valuable to be shared
 because it used the famous maskrcnn-benchmark library 'as it is' and also used its outputs as it is without TTA or any post processing.
 
+The detailed solution can be found in [kaggle discussion](https://www.kaggle.com/c/open-images-2019-instance-segmentation/discussion/110908#latest-638554).
+
 ## Preparation
 
 1. Install maskrcnn_bencmark according to [official guide](https://github.com/facebookresearch/maskrcnn-benchmark/blob/master/INSTALL.md).
